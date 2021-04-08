@@ -1,17 +1,18 @@
 {
-  "name": "todolist-review-app",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^8.2.0",
-    "ejs": "^3.1.6",
-    "express": "^4.17.1",
-    "mongodb": "^3.6.5"
+  "name": "todolist-review-app", /* This is the name of app. */
+  "version": "1.0.0", /* This is what version of the app will be running. */
+  "description": "", /* This is how to desribe what path to take to the app. */
+  "main": "index.js", /* This tells you were the path is for the main JS file is for the app. */
+  "scripts": { /* I do not know what this is. */
+    "test": "echo \"Error: no test specified\" && exit 1" /* I do not know what this is. */
+  }, /* I do not know what this is. */
+  "author": "", /* I do not know what this is. */
+  "license": "ISC",/* I do not know what this is. */
+  "dependencies": { /* The files that are within or linked to the app. */
+    "dotenv": "^8.2.0", /* I do not know what this is but it shows waht version of the program it is at the end. */
+    "ejs": "^3.1.6", /* This tells you that there is a ejs file with a path to and from the app and which version it is. */
+    "express": "^4.17.1", /* This tell you that there is an express file with a path to and from the app and whcih version it is. */
+    "mongodb": "^3.6.5" /* This tells you that you're running this in mongodb and which version it is. */
   }
 }
+
