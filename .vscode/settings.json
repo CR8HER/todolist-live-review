@@ -1,4 +1,4 @@
 {
-    "editor.fontSize": 42,
-    "terminal.integrated.fontSize": 60
+    "editor.fontSize": 42, //This is the font size for the editor.
+    "terminal.integrated.fontSize": 60 //This is the font size for the terminal.
 }
